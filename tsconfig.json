@@ -125,6 +125,9 @@
       "path": "extensions/pooling/tsconfig.json"
     },
     {
+      "path": "extensions/prisma/tsconfig.json"
+    },
+    {
       "path": "extensions/socketio/tsconfig.json"
     },
     {
